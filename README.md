@@ -1,16 +1,26 @@
-# bloc_api
+# JSONPlaceholder API Demo 🚀
 
-A new Flutter project.
+This project demonstrates how to make **GET** and **POST** API calls using [JSONPlaceholder](https://jsonplaceholder.typicode.com/), a free fake online REST API for testing and prototyping.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features
+- Fetch data with **GET** request  
+- Send new data with **POST** request  
+- Handles API responses and errors  
+- Easy to extend for more endpoints  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Technologies Used
+- Flutter, Bloc 
+- API: **JSONPlaceholder (typicode)**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Endpoints Used
+
+- **GET**:  
+https://jsonplaceholder.typicode.com/posts
+- **POST**:  
+https://jsonplaceholder.typicode.com/posts
